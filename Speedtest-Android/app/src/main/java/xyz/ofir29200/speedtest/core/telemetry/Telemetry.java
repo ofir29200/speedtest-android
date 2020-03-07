@@ -1,11 +1,11 @@
-package com.fdossena.speedtest.core.telemetry;
+package xyz.ofir29200.speedtest.core.telemetry;
 
 import java.io.PrintStream;
 import java.util.HashMap;
 
-import com.fdossena.speedtest.core.config.TelemetryConfig;
-import com.fdossena.speedtest.core.base.Connection;
-import com.fdossena.speedtest.core.base.Utils;
+import xyz.ofir29200.speedtest.core.config.TelemetryConfig;
+import xyz.ofir29200.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Utils;
 
 public abstract class Telemetry extends Thread{
     private Connection c;

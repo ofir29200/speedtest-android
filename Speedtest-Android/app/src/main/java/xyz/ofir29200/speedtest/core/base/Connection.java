@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.core.base;
+package xyz.ofir29200.speedtest.core.base;
 
 import android.os.Build;
 

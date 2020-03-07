@@ -1,8 +1,8 @@
-package com.fdossena.speedtest.core.ping;
+package xyz.ofir29200.speedtest.core.ping;
 
 import java.io.InputStream;
 
-import com.fdossena.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Connection;
 
 public abstract class Pinger extends Thread{
     private Connection c;

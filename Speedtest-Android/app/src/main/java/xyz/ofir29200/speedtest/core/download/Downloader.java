@@ -1,9 +1,9 @@
-package com.fdossena.speedtest.core.download;
+package xyz.ofir29200.speedtest.core.download;
 
 import java.io.InputStream;
 
-import com.fdossena.speedtest.core.base.Connection;
-import com.fdossena.speedtest.core.base.Utils;
+import xyz.ofir29200.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Utils;
 
 public abstract class Downloader extends Thread{
     private Connection c;

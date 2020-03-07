@@ -1,9 +1,9 @@
-package com.fdossena.speedtest.core.upload;
+package xyz.ofir29200.speedtest.core.upload;
 
-import com.fdossena.speedtest.core.base.Connection;
-import com.fdossena.speedtest.core.base.Utils;
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.log.Logger;
+import xyz.ofir29200.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Utils;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.log.Logger;
 
 public abstract class UploadStream {
     private String server, path;

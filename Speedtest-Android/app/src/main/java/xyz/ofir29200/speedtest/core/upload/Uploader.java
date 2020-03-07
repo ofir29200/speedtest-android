@@ -1,9 +1,9 @@
-package com.fdossena.speedtest.core.upload;
+package xyz.ofir29200.speedtest.core.upload;
 
 import java.io.OutputStream;
 import java.util.Random;
 
-import com.fdossena.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Connection;
 
 public abstract class Uploader extends Thread{
     private Connection c;

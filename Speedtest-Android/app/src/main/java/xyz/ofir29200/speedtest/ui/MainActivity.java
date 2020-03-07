@@ -32,7 +32,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Locale;
 
-import your.name.here.speedtest.R;
+import xyz.ofir29200.speedtest.R;
 
 public class MainActivity extends Activity {
 

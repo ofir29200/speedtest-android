@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.core.log;
+package xyz.ofir29200.speedtest.core.log;
 
 public class Logger {
     private String log="";

@@ -1,11 +1,11 @@
-package com.fdossena.speedtest.core.getIP;
+package xyz.ofir29200.speedtest.core.getIP;
 
 import java.io.BufferedReader;
 import java.util.HashMap;
 
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.base.Connection;
-import com.fdossena.speedtest.core.base.Utils;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Utils;
 
 public abstract class GetIP extends Thread{
     private Connection c;

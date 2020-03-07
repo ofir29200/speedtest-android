@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.core.config;
+package xyz.ofir29200.speedtest.core.config;
 
 import org.json.JSONException;
 import org.json.JSONObject;

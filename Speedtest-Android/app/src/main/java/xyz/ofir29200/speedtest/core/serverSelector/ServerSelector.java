@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.core.serverSelector;
+package xyz.ofir29200.speedtest.core.serverSelector;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -6,8 +6,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.ping.PingStream;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.ping.PingStream;
 
 public abstract class ServerSelector {
     private ArrayList<TestPoint> servers=new ArrayList<>();
