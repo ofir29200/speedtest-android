@@ -1,18 +1,18 @@
-package com.fdossena.speedtest.core.worker;
+package xyz.ofir29200.speedtest.core.worker;
 
 import org.json.JSONObject;
 
-import com.fdossena.speedtest.core.base.Connection;
-import com.fdossena.speedtest.core.base.Utils;
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.config.TelemetryConfig;
-import com.fdossena.speedtest.core.download.DownloadStream;
-import com.fdossena.speedtest.core.getIP.GetIP;
-import com.fdossena.speedtest.core.log.Logger;
-import com.fdossena.speedtest.core.ping.PingStream;
-import com.fdossena.speedtest.core.serverSelector.TestPoint;
-import com.fdossena.speedtest.core.telemetry.Telemetry;
-import com.fdossena.speedtest.core.upload.UploadStream;
+import xyz.ofir29200.speedtest.core.base.Connection;
+import xyz.ofir29200.speedtest.core.base.Utils;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.config.TelemetryConfig;
+import xyz.ofir29200.speedtest.core.download.DownloadStream;
+import xyz.ofir29200.speedtest.core.getIP.GetIP;
+import xyz.ofir29200.speedtest.core.log.Logger;
+import xyz.ofir29200.speedtest.core.ping.PingStream;
+import xyz.ofir29200.speedtest.core.serverSelector.TestPoint;
+import xyz.ofir29200.speedtest.core.telemetry.Telemetry;
+import xyz.ofir29200.speedtest.core.upload.UploadStream;
 
 import java.util.Locale;
 

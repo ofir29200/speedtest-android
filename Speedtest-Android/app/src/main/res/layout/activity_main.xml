@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.fdossena.speedtest.ui.MainActivity"
+    tools:context="xyz.ofir29200.speedtest.ui.MainActivity"
     android:background="@color/appBackground">
 
     <ImageView
@@ -357,7 +357,7 @@
                             android:textColor="@color/textColor"
                             />
 
-                        <com.fdossena.speedtest.ui.GaugeView
+                        <xyz.ofir29200.speedtest.ui.GaugeView
                             android:layout_width="match_parent"
                             android:layout_height="@dimen/gaugeSize"
                             android:id="@+id/dlGauge"
@@ -425,7 +425,7 @@
                             android:textColor="@color/textColor"
                             />
 
-                        <com.fdossena.speedtest.ui.GaugeView
+                        <xyz.ofir29200.speedtest.ui.GaugeView
                             android:layout_width="match_parent"
                             android:layout_height="@dimen/gaugeSize"
                             android:id="@+id/ulGauge"
