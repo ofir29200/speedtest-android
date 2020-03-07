@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.ui;
+package xyz.ofir29200.speedtest.ui;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -18,10 +18,10 @@ import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.fdossena.speedtest.core.Speedtest;
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.config.TelemetryConfig;
-import com.fdossena.speedtest.core.serverSelector.TestPoint;
+import xyz.ofir29200.speedtest.core.Speedtest;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.config.TelemetryConfig;
+import xyz.ofir29200.speedtest.core.serverSelector.TestPoint;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

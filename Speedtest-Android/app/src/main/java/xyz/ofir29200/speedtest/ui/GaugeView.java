@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.ui;
+package xyz.ofir29200.speedtest.ui;
 
 import android.content.Context;
 import android.content.res.TypedArray;

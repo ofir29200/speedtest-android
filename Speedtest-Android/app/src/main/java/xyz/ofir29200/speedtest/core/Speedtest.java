@@ -1,4 +1,4 @@
-package com.fdossena.speedtest.core;
+package xyz.ofir29200.speedtest.core;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -6,11 +6,11 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import com.fdossena.speedtest.core.config.SpeedtestConfig;
-import com.fdossena.speedtest.core.config.TelemetryConfig;
-import com.fdossena.speedtest.core.serverSelector.ServerSelector;
-import com.fdossena.speedtest.core.serverSelector.TestPoint;
-import com.fdossena.speedtest.core.worker.SpeedtestWorker;
+import xyz.ofir29200.speedtest.core.config.SpeedtestConfig;
+import xyz.ofir29200.speedtest.core.config.TelemetryConfig;
+import xyz.ofir29200.speedtest.core.serverSelector.ServerSelector;
+import xyz.ofir29200.speedtest.core.serverSelector.TestPoint;
+import xyz.ofir29200.speedtest.core.worker.SpeedtestWorker;
 
 public class Speedtest {
     private ArrayList<TestPoint> servers=new ArrayList<>();
