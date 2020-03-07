@@ -1,7 +1,7 @@
 [
   {
     "name":"Server1, London",
-    "server":"//speedtest.ofir29200.xyz/backend",
+    "server":"//speedtestapp.ofir29200.xyz",
     "dlURL":"garbage.php",
     "ulURL":"empty.php",
     "pingURL":"empty.php",
