@@ -6,5 +6,13 @@
     "ulURL":"empty.php",
     "pingURL":"empty.php",
     "getIpURL":"getIP.php"
+  },
+  {
+    "name":"Server2, New York",
+    "server":"//NY1.speedtestapp.ofir29200.xyz",
+    "dlURL":"garbage.php",
+    "ulURL":"empty.php",
+    "pingURL":"empty.php",
+    "getIpURL":"getIP.php"
   }
 ]
